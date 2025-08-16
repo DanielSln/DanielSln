@@ -1,20 +1,25 @@
 # 👨🏻‍💻 About Me  
 
-💡 I'm a software developer - currently working in front-end application patterns.  
-🌱 Always learning and improving my skills.  
+💡 I'm a software developer in progress — currently focused on front-end applications.  
+🎓 I'm still a student, always learning and building my knowledge in technology.  
+🌱 Focused on improving my skills every day.  
 ✉️ You can email me at **12danielsolano@gmail.com** — I'll try to respond as soon as possible!  
 
 ---
 
 ## 🛠 Tech Stack  
 
-- **Languages & Frameworks:** JavaScript, HTML, CSS, NodeJS, Angular, React, React Native  
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Bootstrap  
-- **Databases:** PostgreSQL  
+- **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap  
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code  
 
 ---
 
 ## 📫 How to reach me  
 
-- **LinkedIn:** [Clique aqui](https://www.linkedin.com) *(coloque seu link real)*  
-- **Gmail:** **12danielsolano@gmail.com**  
+<a href="mailto:12danielsolano@gmail.com">
+  <img align="center" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com" target="_blank">
+  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
