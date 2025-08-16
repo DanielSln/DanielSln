@@ -1,16 +1,12 @@
-## Hi there 👋
+👨🏻‍💻  About Me
+💡   I'm a software developer - currently working in front-end applications patterns.
+🎓  I have a bachelor's degree in information systems 🎓  I have a postgratuate degree in Full Stack Development 🌱 ✉️  You can email me at rodrigonottoboni@gmail.com. I'll try to respond as soon as possible!\
 
-<!--
-**DanielSln/DanielSln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠  Tech Stack
+JavaScript  Bootstrap
+HTML  CSS  Git  GitHub  Visual Studio Code 
+NodeJS Angular React Native React
+PostGreSQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫   How to reach me:
+LinkedIn   Gmail
