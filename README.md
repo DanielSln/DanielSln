@@ -3,7 +3,7 @@
 💡 I'm a software developer in progress — currently focused on front-end applications.  
 🎓 I'm still a student, always learning and building my knowledge in technology.  
 🌱 Focused on improving my skills every day.  
-✉️ You can email me at **12danielsolano@gmail.com** — I'll try to respond as soon as possible!  
+✉️ You can email me at *12danielsolano@gmail.com* — I'll try to respond as soon as possible!  
 
 ---
 
