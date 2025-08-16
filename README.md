@@ -1,6 +1,6 @@
 👨🏻‍💻  About Me
 💡   I'm a software developer - currently working in front-end applications patterns.
-🎓  I have a bachelor's degree in information systems 🎓  I have a postgratuate degree in Full Stack Development 🌱 ✉️  You can email me at rodrigonottoboni@gmail.com. I'll try to respond as soon as possible!\
+🎓  I have a bachelor's degree in information systems 🎓  I have a postgratuate degree in Full Stack Development 🌱 ✉️  You can email me at 12danielsolano@gmail.com. I'll try to respond as soon as possible!\
 
 🛠  Tech Stack
 JavaScript  Bootstrap
