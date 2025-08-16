@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack  
 
-- **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap  
+- **Languages & Frameworks:** JavaScript, HTML, CSS
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code  
 
 ---
