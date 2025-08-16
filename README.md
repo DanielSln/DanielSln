@@ -20,6 +20,3 @@
   <img align="center" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com" target="_blank">
-  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
