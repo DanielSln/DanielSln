@@ -21,7 +21,7 @@
 </a>
 &nbsp;&nbsp;
 
-https://raw.githubusercontent.com/DanielSln/DanielSln/refs/heads/output/github-contribution-grid-snake.svg
+![Snake animation](https://raw.githubusercontent.com/DanielSIn/DanielSIn/output/github-contribution-grid-snake.svg)
 
 
 
