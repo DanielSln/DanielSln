@@ -21,7 +21,7 @@
 </a>
 &nbsp;&nbsp;
 
-![Snake animation](https://raw.githubusercontent.com/DanielSln/DanielSln/refs/heads/output/github-contribution-grid-snake.svg)
-
-
-
+<hr>
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanielSln/DanielSln/refs/heads/output/github-contribution-grid-snake.svg"/>
+</div>
