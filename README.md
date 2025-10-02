@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack  
 
-- **Languages & Frameworks:** JavaScript, HTML, CSS
+- **Languages & Frameworks:** JavaScript, Python, Ionic, Angular, HTML, CSS
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code  
 
 ---
