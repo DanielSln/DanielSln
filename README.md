@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me  
 
-<a href="mailto:12danielsolano@gmail.com">
+<a href="mailto:danielslndev@gmail.com">
   <img align="center" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 &nbsp;&nbsp;
